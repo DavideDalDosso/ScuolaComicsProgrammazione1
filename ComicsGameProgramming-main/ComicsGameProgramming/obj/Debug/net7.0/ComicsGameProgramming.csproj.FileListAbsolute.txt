@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Desktop\Everything\Coding\ComicsGameProgramming\ComicsGameProgramming\bin\Debug\net7.0\ComicsGameProgramming.exe
+C:\Users\david\OneDrive\Desktop\Everything\Coding\ComicsGameProgramming\ComicsGameProgramming\bin\Debug\net7.0\ComicsGameProgramming.deps.json
+C:\Users\david\OneDrive\Desktop\Everything\Coding\ComicsGameProgramming\ComicsGameProgramming\bin\Debug\net7.0\ComicsGameProgramming.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\Everything\Coding\ComicsGameProgramming\ComicsGameProgramming\bin\Debug\net7.0\ComicsGameProgramming.dll
+C:\Users\david\OneDrive\Desktop\Everything\Coding\ComicsGameProgramming\ComicsGameProgramming\bin\Debug\net7.0\ComicsGameProgramming.pdb
+C:\Users\david\OneDrive\Desktop\Everything\Coding\ComicsGameProgramming\ComicsGameProgramming\obj\Debug\net7.0\ComicsGameProgramming.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\Everything\Coding\ComicsGameProgramming\ComicsGameProgramming\obj\Debug\net7.0\ComicsGameProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\Everything\Coding\ComicsGameProgramming\ComicsGameProgramming\obj\Debug\net7.0\ComicsGameProgramming.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\Everything\Coding\ComicsGameProgramming\ComicsGameProgramming\obj\Debug\net7.0\ComicsGameProgramming.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\Everything\Coding\ComicsGameProgramming\ComicsGameProgramming\obj\Debug\net7.0\ComicsGameProgramming.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\Everything\Coding\ComicsGameProgramming\ComicsGameProgramming\obj\Debug\net7.0\ComicsGameProgramming.dll
+C:\Users\david\OneDrive\Desktop\Everything\Coding\ComicsGameProgramming\ComicsGameProgramming\obj\Debug\net7.0\refint\ComicsGameProgramming.dll
+C:\Users\david\OneDrive\Desktop\Everything\Coding\ComicsGameProgramming\ComicsGameProgramming\obj\Debug\net7.0\ComicsGameProgramming.pdb
+C:\Users\david\OneDrive\Desktop\Everything\Coding\ComicsGameProgramming\ComicsGameProgramming\obj\Debug\net7.0\ComicsGameProgramming.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\Everything\Coding\ComicsGameProgramming\ComicsGameProgramming\obj\Debug\net7.0\ref\ComicsGameProgramming.dll

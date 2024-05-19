@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>ex00</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Extra01\misc00\**" />
+    <Compile Remove="Lesson01\**" />
+    <EmbeddedResource Remove="Extra01\misc00\**" />
+    <EmbeddedResource Remove="Lesson01\**" />
+    <None Remove="Extra01\misc00\**" />
+    <None Remove="Lesson01\**" />
+  </ItemGroup>
+
+</Project>

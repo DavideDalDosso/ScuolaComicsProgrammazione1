@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Desktop\Everything\Coding\Rush00\Rush00\bin\Debug\net7.0\Rush00.exe
+C:\Users\david\OneDrive\Desktop\Everything\Coding\Rush00\Rush00\bin\Debug\net7.0\Rush00.deps.json
+C:\Users\david\OneDrive\Desktop\Everything\Coding\Rush00\Rush00\bin\Debug\net7.0\Rush00.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\Everything\Coding\Rush00\Rush00\bin\Debug\net7.0\Rush00.dll
+C:\Users\david\OneDrive\Desktop\Everything\Coding\Rush00\Rush00\bin\Debug\net7.0\Rush00.pdb
+C:\Users\david\OneDrive\Desktop\Everything\Coding\Rush00\Rush00\obj\Debug\net7.0\Rush00.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\Everything\Coding\Rush00\Rush00\obj\Debug\net7.0\Rush00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\Everything\Coding\Rush00\Rush00\obj\Debug\net7.0\Rush00.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\Everything\Coding\Rush00\Rush00\obj\Debug\net7.0\Rush00.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\Everything\Coding\Rush00\Rush00\obj\Debug\net7.0\Rush00.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\Everything\Coding\Rush00\Rush00\obj\Debug\net7.0\Rush00.dll
+C:\Users\david\OneDrive\Desktop\Everything\Coding\Rush00\Rush00\obj\Debug\net7.0\refint\Rush00.dll
+C:\Users\david\OneDrive\Desktop\Everything\Coding\Rush00\Rush00\obj\Debug\net7.0\Rush00.pdb
+C:\Users\david\OneDrive\Desktop\Everything\Coding\Rush00\Rush00\obj\Debug\net7.0\Rush00.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\Everything\Coding\Rush00\Rush00\obj\Debug\net7.0\ref\Rush00.dll

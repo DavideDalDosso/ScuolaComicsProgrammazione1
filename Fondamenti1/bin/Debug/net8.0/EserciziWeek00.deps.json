@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EserciziWeek00/1.0.0": {
+        "runtime": {
+          "EserciziWeek00.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EserciziWeek00/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

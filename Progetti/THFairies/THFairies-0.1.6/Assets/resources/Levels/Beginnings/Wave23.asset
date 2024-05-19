@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5985ce7730b82bb4e9804c5a083b13b0, type: 3}
+  m_Name: Wave23
+  m_EditorClassIdentifier: 
+  waveBuffers:
+  - spawnerIndex: 0
+    enemySO: {fileID: 11400000, guid: 4cfde614082d5d6468ce221cade50864, type: 2}
+    amount: 1
+    spawnRate: 0.1
+    spawnDelay: 0
+  - spawnerIndex: 0
+    enemySO: {fileID: 11400000, guid: 72eff3f54da2828428b02ea0347fcdeb, type: 2}
+    amount: 1
+    spawnRate: 0.1
+    spawnDelay: 2
+  - spawnerIndex: 0
+    enemySO: {fileID: 11400000, guid: 37768d00d7f225c45ba07869edd92757, type: 2}
+    amount: 1
+    spawnRate: 0.1
+    spawnDelay: 4
+  - spawnerIndex: 0
+    enemySO: {fileID: 11400000, guid: 6631b39f147047145b1a9ee82ff8c8cf, type: 2}
+    amount: 1
+    spawnRate: 0.1
+    spawnDelay: 6
+  - spawnerIndex: 0
+    enemySO: {fileID: 11400000, guid: 42b852dd62d9d534f827deb677f2a0e9, type: 2}
+    amount: 1
+    spawnRate: 0.1
+    spawnDelay: 8
+  - spawnerIndex: 0
+    enemySO: {fileID: 11400000, guid: 763d9ed3ad85a4e40bdfd2dbddafcfbb, type: 2}
+    amount: 1
+    spawnRate: 0.1
+    spawnDelay: 15
+  - spawnerIndex: 0
+    enemySO: {fileID: 11400000, guid: 72eff3f54da2828428b02ea0347fcdeb, type: 2}
+    amount: 50
+    spawnRate: 0.1
+    spawnDelay: 20
+  waveTime: 90
+  cashReward: 260

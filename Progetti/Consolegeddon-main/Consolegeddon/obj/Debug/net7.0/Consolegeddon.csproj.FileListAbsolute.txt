@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\Consolegeddon\Consolegeddon\bin\Debug\net7.0\Consolegeddon.exe
+C:\Users\david\source\repos\Consolegeddon\Consolegeddon\bin\Debug\net7.0\Consolegeddon.deps.json
+C:\Users\david\source\repos\Consolegeddon\Consolegeddon\bin\Debug\net7.0\Consolegeddon.runtimeconfig.json
+C:\Users\david\source\repos\Consolegeddon\Consolegeddon\bin\Debug\net7.0\Consolegeddon.dll
+C:\Users\david\source\repos\Consolegeddon\Consolegeddon\bin\Debug\net7.0\Consolegeddon.pdb
+C:\Users\david\source\repos\Consolegeddon\Consolegeddon\obj\Debug\net7.0\Consolegeddon.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Consolegeddon\Consolegeddon\obj\Debug\net7.0\Consolegeddon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Consolegeddon\Consolegeddon\obj\Debug\net7.0\Consolegeddon.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Consolegeddon\Consolegeddon\obj\Debug\net7.0\Consolegeddon.AssemblyInfo.cs
+C:\Users\david\source\repos\Consolegeddon\Consolegeddon\obj\Debug\net7.0\Consolegeddon.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Consolegeddon\Consolegeddon\obj\Debug\net7.0\Consolegeddon.dll
+C:\Users\david\source\repos\Consolegeddon\Consolegeddon\obj\Debug\net7.0\refint\Consolegeddon.dll
+C:\Users\david\source\repos\Consolegeddon\Consolegeddon\obj\Debug\net7.0\Consolegeddon.pdb
+C:\Users\david\source\repos\Consolegeddon\Consolegeddon\obj\Debug\net7.0\Consolegeddon.genruntimeconfig.cache
+C:\Users\david\source\repos\Consolegeddon\Consolegeddon\obj\Debug\net7.0\ref\Consolegeddon.dll

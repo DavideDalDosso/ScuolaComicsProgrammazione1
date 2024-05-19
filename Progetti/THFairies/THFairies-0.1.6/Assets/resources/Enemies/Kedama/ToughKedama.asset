@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dd5bab263270974abb0ab67bf5bb552, type: 3}
+  m_Name: ToughKedama
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: -4708843129526824313, guid: 1c37c42d935340d42871796385a8616b, type: 3}
+  health: 40
+  speed: 1.5
+  cashReward: 6
+  hitSound: {fileID: 8300000, guid: d4bccd2f39fb5534b8571175750a9097, type: 3}
+  deathSound: {fileID: 8300000, guid: f23d708a481a4f541bb217800902cde8, type: 3}
+  deathSoundObject: {fileID: -692663768998670109, guid: 3341f8e6d0c77d944881ed3413e09743, type: 3}
+  deathParticlesObject: {fileID: 2148043908639980037, guid: 41eeb040ddb95e14e89a3ef3e2266e62, type: 3}

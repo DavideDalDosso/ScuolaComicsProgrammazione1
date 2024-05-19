@@ -1,0 +1,14 @@
+C:\Users\STUDENTE\Documents\EserciziWeek00\EserciziWeek00\obj\Debug\net8.0\EserciziWeek00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTE\Documents\EserciziWeek00\EserciziWeek00\obj\Debug\net8.0\EserciziWeek00.AssemblyInfoInputs.cache
+C:\Users\STUDENTE\Documents\EserciziWeek00\EserciziWeek00\obj\Debug\net8.0\EserciziWeek00.AssemblyInfo.cs
+C:\Users\STUDENTE\Documents\EserciziWeek00\EserciziWeek00\obj\Debug\net8.0\EserciziWeek00.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTE\Documents\EserciziWeek00\EserciziWeek00\bin\Debug\net8.0\EserciziWeek00.exe
+C:\Users\STUDENTE\Documents\EserciziWeek00\EserciziWeek00\bin\Debug\net8.0\EserciziWeek00.deps.json
+C:\Users\STUDENTE\Documents\EserciziWeek00\EserciziWeek00\bin\Debug\net8.0\EserciziWeek00.runtimeconfig.json
+C:\Users\STUDENTE\Documents\EserciziWeek00\EserciziWeek00\bin\Debug\net8.0\EserciziWeek00.dll
+C:\Users\STUDENTE\Documents\EserciziWeek00\EserciziWeek00\bin\Debug\net8.0\EserciziWeek00.pdb
+C:\Users\STUDENTE\Documents\EserciziWeek00\EserciziWeek00\obj\Debug\net8.0\EserciziWeek00.dll
+C:\Users\STUDENTE\Documents\EserciziWeek00\EserciziWeek00\obj\Debug\net8.0\refint\EserciziWeek00.dll
+C:\Users\STUDENTE\Documents\EserciziWeek00\EserciziWeek00\obj\Debug\net8.0\EserciziWeek00.pdb
+C:\Users\STUDENTE\Documents\EserciziWeek00\EserciziWeek00\obj\Debug\net8.0\EserciziWeek00.genruntimeconfig.cache
+C:\Users\STUDENTE\Documents\EserciziWeek00\EserciziWeek00\obj\Debug\net8.0\ref\EserciziWeek00.dll

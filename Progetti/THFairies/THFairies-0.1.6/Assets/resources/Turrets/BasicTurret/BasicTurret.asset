@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7ff0a00ef02edc4d85aea5723d5f160, type: 3}
+  m_Name: BasicTurret
+  m_EditorClassIdentifier: 
+  turretPrefab: {fileID: 1295190181311516701, guid: 611dd7f829501e84f99876cc144b69bd, type: 3}
+  icon: {fileID: 21300000, guid: 7f0b03849bd0a1c4691dbfbcf18528bc, type: 3}
+  baseCost: 200
+  baseDescription: 
+  upgradeNames: []
+  upgradeIcons: []
+  upgradeCosts: 
+  upgradeDescriptions: []
+  bullet: {fileID: 4900181101237975439, guid: 7c1624e42562f1944b6ba8f5020db44e, type: 3}
+  range: 5
+  turnRate: 180
+  damage: 5
+  fireRate: 0.8
+  bulletSpeed: 4
+  shootSound: {fileID: 8300000, guid: a7a80e87b994813468860bdc35e1f960, type: 3}
+  bulletParticleObject: {fileID: 7467392536912230652, guid: 03fec47837948064e92e9a4c29c3893c, type: 3}
+  upgrade3ExtraRange: 2
+  upgrade3ExtraTurnRate: 2
